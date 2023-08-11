@@ -1,4 +1,5 @@
 def compute(expression):
+    print('hello')
     values = expression.split(' ')
     num0 = int(values[0])
     operator = values[1]
